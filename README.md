@@ -7,5 +7,8 @@ The application breaks down the UI into components, manages component state, and
 Click on an image to begin. Once an image is clicked the images will shuffle, try to remember the image you have already clicked. Clicking a new image gains you a point, while clicking on a previously clicked image resets the score and the game is over.
 
 Come play the wonderful NBA memory game. 
+
+Utilizes React states to help with shuffle functionality in game. 
+
 ![UI](/images/ui.png)
 
