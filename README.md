@@ -10,5 +10,7 @@ Come play the wonderful NBA memory game.
 
 Utilizes React states to help with shuffle functionality in game. 
 
+Practices the use of props.
+
 ![UI](/images/ui.png)
 
