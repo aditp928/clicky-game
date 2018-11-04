@@ -1,6 +1,6 @@
 # clicky-game
 
-A memory game that utilizes Reactjs 
+A memory game that utilizes Reactjs.
 
 The application breaks down the UI into components, manages component state, and responds to user events.
 
