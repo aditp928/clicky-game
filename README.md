@@ -8,7 +8,7 @@ Click on an image to begin. Once an image is clicked the images will shuffle, tr
 
 Utilizes React states to help with shuffle functionality in game. 
 
-Practices the use of props and updating the state.
+Practices the use of props and updating the state
 
 ![UI](/images/ui.png)
 
